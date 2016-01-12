@@ -1,5 +1,5 @@
 System.config({
-  baseURL: "/",
+  baseURL: "/js-source-maps-demo",
   defaultJSExtensions: true,
   transpiler: "babel",
   babelOptions: {
